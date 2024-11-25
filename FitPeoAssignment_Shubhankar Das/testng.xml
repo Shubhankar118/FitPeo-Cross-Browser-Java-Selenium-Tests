@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CrossBrowserTestSuite">
+    <test name="ChromeTest">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="testurl" value="https://www.fitpeo.com/"/>
+        <classes>
+            <class name="testPackage.test.FitPeoTest"/>
+        </classes>
+    </test>
+    <test name="FirefoxTest">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="testurl" value="https://www.fitpeo.com/"/>
+        <classes>
+            <class name="testPackage.test.FitPeoTest"/>
+        </classes>
+    </test>
+    <test name="EdgeTest">
+        <parameter name="browser" value="edge"/>
+        <parameter name="testurl" value="https://www.fitpeo.com/"/>
+        <classes>
+            <class name="testPackage.test.FitPeoTest"/>
+        </classes>
+    </test>
+</suite>

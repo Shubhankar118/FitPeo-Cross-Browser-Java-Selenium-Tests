@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<locators>
+    <locator name="homepage_revenueCalculator" type="xpath">//a[@href="/revenue-calculator"]</locator>
+    <locator name="slider" type="xpath">//span[@class="MuiSlider-thumb MuiSlider-thumbSizeMedium MuiSlider-thumbColorPrimary MuiSlider-thumb MuiSlider-thumbSizeMedium MuiSlider-thumbColorPrimary css-1sfugkh"]</locator>
+    <locator name="text_field" type="xpath">//input[@class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-1o6z5ng"]</locator>
+    <locator name="cptCheckbox99091" type="xpath">(//label//input[@type='checkbox'])[1]</locator>
+    <locator name="cptCheckbox99453" type="xpath">(//label//input[@type='checkbox'])[2]</locator>
+    <locator name="cptCheckbox99454" type="xpath">(//label//input[@type='checkbox'])[3]</locator>
+    <locator name="cptCheckbox99474" type="xpath">(//label//input[@type='checkbox'])[8]</locator>
+    <locator name="total_reimbursement" type="xpath">//div[@class='MuiBox-root css-m1khva']</locator>
+</locators>
