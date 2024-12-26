@@ -1,4 +1,4 @@
-# FitPeo-Cross-Browser-Java-Selenium-Tests
+# Cross-Browser-Java-Selenium-Tests
 
 
 # Setup and Running Instructions for Cross-Browser Selenium Tests
