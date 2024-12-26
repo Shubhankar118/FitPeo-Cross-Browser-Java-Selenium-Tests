@@ -3,7 +3,7 @@
 
 # Setup and Running Instructions for Cross-Browser Selenium Tests
 
-Automation Analyst Assignment
+
 
 
 
